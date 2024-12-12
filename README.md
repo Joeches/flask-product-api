@@ -136,6 +136,9 @@ To run the tests, ensure you are in the project directory and execute:
 
 pytest test_app.py
 
+Challenges Faced:
+"One challenge I encountered was ensuring thread safety when handling concurrent requests. I addressed this by implementing locks…"
+
 
 
 
